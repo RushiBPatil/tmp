@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+	<test name="ChromeTest">
+	<parameter name="browser" value="LambdaChrome"></parameter>
+		<classes>
+			<class name="com.baseClassObject.baseClass" />
+			<!-- <class name="com.baseClassObject.paypageOperations" />
+			<class name="com.baseClassObject.orderRequests">
+			<methods>
+			<include name="orderConfirm"></include>
+			<include name="orderStatus"></include>
+			</methods>
+			</class>  -->			
+		</classes>
+	</test>
+	<!-- <test name="FirefoxTest">
+		<Parameter name="browser" value="firefox"></Parameter>
+		<classes>
+			<class name="com.baseClassObject.baseClass" />
+		</classes>
+	</test>-->
+</suite>

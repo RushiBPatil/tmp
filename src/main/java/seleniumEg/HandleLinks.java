@@ -23,7 +23,8 @@ public class HandleLinks {
 		driver.get("http://www.deadlinkcity.com");
 		// linkText() & partialLinkTest() methods are used to get link type of element
 		// text
-		// driver.findElement(By.linkText("here")).click();
+		 WebElement tmp=driver.findElement(By.linkText("here"));
+		 System.out.println("url"+tmp.getAttribute("href"));
 		// driver.findElement(By.partialLinkText("ere")).click();
 		int cnt = 0;
 		List<WebElement> list = driver.findElements(By.tagName("a"));

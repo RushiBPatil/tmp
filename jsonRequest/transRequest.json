@@ -1,0 +1,149 @@
+ {
+  "TransRequest": {
+    "ADSDKSpecVer": "6.12.6",
+    "APPID": "04",
+    "CorpID": "3801",
+    "ApprovalCode": null,
+    "AurusPayTicketNum": null,
+    "BillingAddress": {
+      "BillingFirstName": "Rush'i",
+    "BillingMiddleName": "B",
+    "BillingLastName": "Pati'l",
+    "BillingAddressLine1": "1 edgewater dr",
+   "BillingAddressLine2": "suite 200",
+   "BillingAddressLine3": "Building A",
+   "BillingZip": "03109-1234",
+   "BillingCity": "Norwood",
+   "BillingState": "MA",
+   "BillingProvince": "",
+   "BillingCountry": "US",
+   "BillingMobileNumber": "5083103230",
+   "BillingOtherNumber": "",
+   "BillingEmailId": "rushikeshp@aurusinc.com"
+    },
+    "CardExpiryDate": null,
+    "CardToken": null,
+    "CardType": null,
+    "ClerkId": null,
+    "ClerkName": "",
+    "CRMToken": null,
+    "CurrencyCode": "840",
+    "CustomerEmail": null,
+    "CustomerId": "rushi123456",
+    "CVVFlag":"",
+    "InvoiceNumber": null,
+    "CustomerFirstName": null,
+    "CustomerLastName": null,
+    "CustomerPhoneNumber": null,
+    "EcommerceIndicator": "Y",
+    "ECOMMInfo": {
+      "CardExpiryDate": null,
+      "CardIdentifier": null,
+      "CVV": null,
+      "DomainId": "1",
+      "OneOrderToken": null,
+      "OneTimeToken": null,
+      "TemplateId": "2",
+      "MerchantIdentifier": "100000069209",
+      "StoreId": "210631",
+      "TerminalId": "60197232",
+      "URLType": "3"
+    },
+    "EntrySource": null,    
+    "LanguageIndicator": null,
+    "OrigAurusPayTicketNum": null,
+    "OriginalTransactionIdentifier": null,
+    "POSClientName": null,
+    "POSID": "01",
+    "POSIP": null,
+    "POSVersion": null,
+    "ProcessorToken": null,
+    "ReceiptNumber": null,
+    "ReferenceNumber": "098767543220",
+    "ReferralNum": null,
+    "ShippingAddress": {
+     "ShippingFirstName": "Rush'i",
+   "ShippingMiddleName": "B",
+   "ShippingLastName": "Pati'l",
+   "ShippingAddressLine1": "1 edgewater dr",
+   "ShippingAddressLine2": "suite 200",
+   "ShippingAddressLine3": "Building A",
+   "ShippingZip": "11111",
+   "ShippingCity": "Norwood",
+   "ShippingState": "MA",
+   "ShippingProvince": "",
+   "ShippingCountry": "US",
+   "ShippingMobileNumber": "7387533322",
+   "ShippingOtherNumber": "",
+   "ShippingEmailId": "rushikeshp@aurusinc.com"
+    },
+    "SubTransType": "04",
+    "ThirdPartyURL": "https://www.google.com/",
+    "TicketProductData": {
+      "TicketCount": "1",
+      "Tickets": {
+        "Ticket": {
+          "ProductCount": "4",
+          "Products": {
+            "Product": [
+              {
+                                "ProductId": "00000000040167",
+                                "ProductName": "Red Delicious",
+                                "ProductCode": "00000000040167",
+                                "ProductUnitPrice": "0.75",
+                                "Quantity": "2",
+                                "LineProductTotal": "1.50"
+                            },
+                            {
+                                "ProductId": "00705599012709",
+                                "ProductName": "Frozen Power Waffles Dark Chocolate",
+                                "ProductCode": "00705599012709",
+                                "ProductUnitPrice": "5.49",
+                                "Quantity": "1",
+                                "LineProductTotal": "5.49"
+                            },
+                            {
+                                "ProductId": "00270855000009",
+                                "ProductName": "Oven Stuffer Chicken",
+                                "ProductCode": "00270855000009",
+                                "ProductUnitPrice": "15.31",
+                                "Quantity": "1",
+                                "LineProductTotal": "15.31"
+                            },
+                            {
+                                "ProductId": "00018200029929",
+                                "ProductName": "Beer - 6 Pack Bottles",
+                                "ProductCode": "00018200029929",
+                                "ProductUnitPrice": "6.39",
+                                "Quantity": "1",
+                                "LineProductTotal": "6.39"
+                            }
+            ]
+          },
+          "TicketNumber": "1"
+        }
+      }
+    },
+    "TransactionDate": "",
+    "TransactionTime": "",
+    "TransactionType": "81",
+    "TransAmountDetails": {
+      "AlternateTaxAmount": null,
+      "CashbackAmount": null,
+      "CashbackFees": null,
+      "Discount": "2.00",
+      "DonationAmount": "0.00",
+      "DutyTotalAmount": null,
+      "EBTAmount": "0.00",
+      "FreightTotalAmount": null,
+      "FSAAmount": null,
+      "ProductTotalAmount": "500.01",
+      "ServicesTotalAmount": "4.99",
+      "TaxAmount": "2.00",
+      "TenderAmount": "0.00",
+      "TipAmount": "0.00",
+      "TransactionTotal": "10.00"
+    },
+    "WalletIdentifier": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderRequest": {
+    "ADSDKSpecVer": "6.10",
+    "MerchantIdentifier": "100000069209",
+    "StoreId": "210631",
+    "TerminalId": "60197232",
+    "CorpID": "3801",
+    "OrderTransType": "",
+    "TransactionDate": "",
+    "TransactionTime": "",
+    "RetryFlag": "",
+    "SessionID": "",
+    "InvoiceNumber": "",
+    "LanguageIndicator": "00",
+    "CurrencyCode": "840",
+    "SubTransType": "",
+    "TransAmountDetails": {
+      "SNAPAmount": "",
+      "TransTotalAmount": "0.00"
+    }
+  }
+}
